@@ -4,8 +4,10 @@
     vertical-align: top;
 }
 .logo {
-    width: 23%;
+    display: inline-block;
+    width: 50%;
     padding: 1%;
+    text-align: center;
 }
 nav {
     width: 73%;
@@ -14,12 +16,11 @@ nav {
 ul {
     width: 50%;
     margin-left: auto;
+    padding: 1%;
 }
-.logo {
-    text-align: center;
-}
+
 .heroImg {
-    height: 610px;
+    height: 600px;
     padding: 25px;
 }
 .content {
@@ -27,7 +28,7 @@ ul {
     margin: 0 auto;
 }
 footer {
-    background-color: 373738;
+    background-color: #373738;
 }
 footer>ul {
     display: inline-block;
