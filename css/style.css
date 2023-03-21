@@ -3,6 +3,10 @@
     display: inline-block;
     vertical-align: top;
 }
+.navigation {
+    background-color: #5b5b5e;
+    height:fit-content;
+}
 .logo {
     display: inline-block;
     width: 50%;
@@ -15,7 +19,7 @@ nav {
 }
 ul {
     width: 50%;
-    margin-left: auto;
+    margin-left: 2;
     padding: 1%;
 }
 
